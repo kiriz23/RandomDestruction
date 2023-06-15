@@ -1,2 +1,2 @@
 # RandomDestruction
-Simple game on UE5. Every left click of mouse, teddy bear spawns in a random place. Right click do delete last created bear.
+Simple game on UE5. Every once in a while, teddy bear spawns in a random place, and random teddy dies. 
